@@ -1,0 +1,52 @@
+
+.aft {
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.aft1 {
+background-color: #cc1f05;
+    width: 7%;
+    height: 5px;
+    transform: translateX(-10%);
+    
+    
+}
+
+
+
+.aft3 {
+    background-color: #cc1f05;
+    width: 7%;
+    height: 5px;
+    transform: translateX(10%);
+}
+
+
+.mo{
+
+    overflow: hidden;
+    position: relative;
+    
+    
+
+}
+
+.layer {
+    background-color: #1abc9ce6;
+    opacity: 0;
+    cursor: pointer;
+    transition: .6s opacity;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+
+}

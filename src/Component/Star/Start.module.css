@@ -1,0 +1,31 @@
+.zoz{
+    background-color: #09c;
+}
+
+
+.aft {
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.aft1 {
+background-color: #cc1f05;
+    width: 7%;
+    height: 5px;
+    transform: translateX(-10%);
+    
+    
+}
+
+
+
+.aft3 {
+    background-color: #cc1f05;
+    width: 7%;
+    height: 5px;
+    transform: translateX(10%);
+}
